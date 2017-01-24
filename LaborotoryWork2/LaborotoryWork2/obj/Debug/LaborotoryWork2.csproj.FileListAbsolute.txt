@@ -1,0 +1,9 @@
+D:\RightNAU\LaborotoryWork2\LaborotoryWork2\bin\Debug\LaborotoryWork2.exe.config
+D:\RightNAU\LaborotoryWork2\LaborotoryWork2\bin\Debug\LaborotoryWork2.exe
+D:\RightNAU\LaborotoryWork2\LaborotoryWork2\bin\Debug\LaborotoryWork2.pdb
+D:\RightNAU\LaborotoryWork2\LaborotoryWork2\obj\Debug\LaborotoryWork2.csprojResolveAssemblyReference.cache
+D:\RightNAU\LaborotoryWork2\LaborotoryWork2\obj\Debug\LaborotoryWork2.exe
+D:\RightNAU\LaborotoryWork2\LaborotoryWork2\obj\Debug\LaborotoryWork2.pdb
+C:\Users\PROST\Desktop\Labs\LaborotoryWork2\LaborotoryWork2\bin\Debug\LaborotoryWork2.exe.config
+C:\Users\PROST\Desktop\Labs\LaborotoryWork2\LaborotoryWork2\obj\Debug\LaborotoryWork2.exe
+C:\Users\PROST\Desktop\Labs\LaborotoryWork2\LaborotoryWork2\obj\Debug\LaborotoryWork2.pdb
